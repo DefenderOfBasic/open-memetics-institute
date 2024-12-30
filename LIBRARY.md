@@ -4,6 +4,8 @@ Useful tools & resources. Currently just an uncategorized list. Will add categor
 
 - [relatedwords.org](https://relatedwords.org/) - semantic word association dictionary
 - [cari.institute/aesthetics](https://cari.institute/aesthetics) - index of consumer aesthetics
+- [psychosecurity foundation](https://github.com/PsySecGroup/foundation/blob/main/GUIDANCE.md) - research by Tyrants Muse
+  - For a good introduction see his lecture on [​Human Weather: Applied Psychosecurity](https://www.youtube.com/watch?v=EL542ohNCQ4)
 
 Companies
 

@@ -1,5 +1,6 @@
 # Library
 
-Useful tools & resources.
+Useful tools & resources. Currently just an uncategorized list. Will add categories once we have enough items.
 
-- https://relatedwords.org/ -> semantic word association dictionary
+- [relatedwords.org](https://relatedwords.org/) -> semantic word association dictionary
+- [cari.institute/aesthetics](https://cari.institute/aesthetics) -> index of consumer aesthetics

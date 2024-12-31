@@ -23,3 +23,7 @@ The fear of being perceived as "dumb" leads to a society where people hide their
   
 - TODO: that Richard Feynman story about the painter he meets who insists that he can do something physically impossible. Feynman asks instead of dismissing it. He maintain's a beginner's mind, and that allows him to learn much faster. 
 - TODO: Richard Feynman story about being the only one on a committee reviewing math textbooks to have dumb questions (and then realizing he's the only one who read the books)
+
+## Media
+
+- [The Bear (TV Series)](https://en.wikipedia.org/wiki/The_Bear_(TV_series)) depicts character arcs of people being much happier & growing once they find their place. You are stuck if you are overwhelmed, or underchallenged. You are growing & improving when you look honestly at your ability. It's better for all.

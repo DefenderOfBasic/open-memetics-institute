@@ -1,7 +1,5 @@
 # Open Memetics Institute
 
-How it started:
-
 > I need something in between the Russian troll farms @bennjordan described, and like, a public research lab. An "open culture institute" that A/B tests people and publishes the result, for the general public
 > 
 > [tweet thread](https://x.com/DefenderOfBasic/status/1859754830962823415)

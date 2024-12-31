@@ -6,7 +6,7 @@ How it started:
 > 
 > [tweet thread](https://x.com/DefenderOfBasic/status/1859754830962823415)
 
-Memetics, or "culture science" is the study of (1) how narratives determine human behavior (2) how narratives spread & evolve. The evolution & propagation of memes (the genes of culture) happens naturally, and can also be directed governments & corporations. The most benign cases of this are companies launching marketing campaigns & A/B testing their product with the aim of changing consumer behavior. We aim to study this science openly for the public benefit, for our own protection & survival. 
+Memetics, or "culture science" is the study of (1) how narratives determine human behavior (2) how narratives spread & evolve. The evolution & propagation of memes (the genes of culture) happens naturally, and can also be directed governments & corporations. Memetic engineering is the art of intentionally changing the behavior of groups of humans by spreading specific narratives. We aim to study this science openly for the public benefit, for our own protection & survival. 
 
 We aim to form a collective of "white hat" hackers, and a community around finding & disclosing vulnerabilities, exactly the same way the cyber security industry does it, with conferences like [DEFCON]([https://defcon.org/](https://www.youtube.com/user/DEFCONConference)).
 

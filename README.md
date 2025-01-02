@@ -8,6 +8,10 @@ Memetics, or "culture science" is the study of (1) how narratives determine huma
 
 We aim to form a collective of "white hat" hackers, and a community around finding & disclosing vulnerabilities, exactly the same way the cyber security industry does it, with conferences like [DEFCON]([https://defcon.org/](https://www.youtube.com/user/DEFCONConference)).
 
+## Library
+
+See [LIBRARY.md](./LIBRARY.md)
+
 ## Who are we
 
 The Open Memetics Institute has many cofounders. It's an idea that was independently conceived of many times. See [DIRECTORY.md](./DIRECTORY.md) for a list of members and what they're working on.

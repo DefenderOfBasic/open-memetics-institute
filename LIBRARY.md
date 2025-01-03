@@ -10,7 +10,8 @@ Useful tools & resources. Currently just an uncategorized list. Will add categor
 
 Companies / collectives 
 
-- [Institute of Network Cultures in Amsterdam](https://networkcultures.org/about/) - "... create sustainable research networks around emerging topics in which a critical contribution can be made"
+- [Institute of Network Cultures in Amsterdam](https://networkcultures.org/about/) - "analyzes and shapes the terrain of network cultures"
+  - They have a [Critical Meme Reader III](https://networkcultures.org/wp-content/uploads/2024/05/Critical-Meme-Reader-III_INC2024_INC-Reader-17.pdf) field guide 
 - [Agitproper](https://www.agitproper.org/why.html)
   - "Psychological warfare is as old as thought. We arm your mind"
   - "Agitproper is a fast moving group of people who make stories to help everyone learn to love living in a changing world"

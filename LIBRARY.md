@@ -2,6 +2,7 @@
 
 Useful tools & resources. Currently just an uncategorized list. Will add categories once we have enough items.
 
+- [memetics 101 twitter thread by Michael Smith](https://x.com/Morphenius/status/1874964994674295128)
 - [relatedwords.org](https://relatedwords.org/) - semantic word association dictionary
 - [cari.institute/aesthetics](https://cari.institute/aesthetics) - index of consumer aesthetics
 - [psychosecurity foundation](https://github.com/PsySecGroup/foundation/blob/main/GUIDANCE.md) - research by Tyrants Muse

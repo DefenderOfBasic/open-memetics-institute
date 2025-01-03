@@ -11,4 +11,5 @@ This is a collection of narratives that are candidates for spreading. The idea i
 - "the myth of the unbiased / netural journalist" -> there is no such thing. It's a narrative that benefits bad actors.
 - How do you spread "win win" thinking as a meme? Or the triple "win win win" (good for you, me, and the world).
   - important because a lot of low hanging fruit is due to people taking it for granted that war is inevitable, that consumers & companies are not on the same side
-- Directory of visakanv's memes and how to spread them? 
+- Directory of visakanv's memes and how to spread them?
+- [“Does this generalize” generalizes](https://x.com/jon_vs_moloch/status/1875008466332651819)

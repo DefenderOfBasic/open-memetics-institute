@@ -8,7 +8,11 @@ Useful tools & resources. Currently just an uncategorized list. Will add categor
 - [psychosecurity foundation](https://github.com/PsySecGroup/foundation/blob/main/GUIDANCE.md) - research by Tyrants Muse
   - For a good introduction see his lecture on [​Human Weather: Applied Psychosecurity](https://www.youtube.com/watch?v=EL542ohNCQ4). He also has [a few articles & essays on his website](https://tyrantsmuse.mn.co/spaces/10222605/feed)
 
-Companies
+Companies / collectives 
 
+- [Institute of Network Cultures in Amsterdam](https://networkcultures.org/about/) - "... create sustainable research networks around emerging topics in which a critical contribution can be made"
+- [Agitproper](https://www.agitproper.org/why.html)
+  - "Psychological warfare is as old as thought. We arm your mind"
+  - "Agitproper is a fast moving group of people who make stories to help everyone learn to love living in a changing world"
 - [vannevarlabs.com](https://www.vannevarlabs.com/) - "From collecting non-traditional intelligence data, disrupting misinformation, and maintaining multi-domain information dominance, we’re helping to win the fight before it’s fought"
 - [openhumans.org](http://openhumans.org/) - "We want to help people access and understand their personal data, and to help them do and share things that use that data."

@@ -4,6 +4,7 @@ This is a collection of narratives that are candidates for spreading. The idea i
 
 - [Destigmatize being dumb](./destigmatize-being-dumb.md) - removing the stigma around asking dumb questions improves teams, companies, communities & society.
 - [the outgroup is not the enemy](./outgroup-is-not-enemy.md) - instead of "X is bad, Y is good" -> "These parts of X are bad, these parts of X are good, same for Y"
+- Self sacrifice is a happiness ponzi scheme - https://x.com/DefenderOfBasic/status/1849472381888160221
 - Money is not the bottleneck to improving society
 
 #### TODO:

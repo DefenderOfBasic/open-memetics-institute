@@ -11,6 +11,7 @@ Useful tools & resources. Currently just an uncategorized list. Will add categor
 
 Companies / collectives 
 
+- [Deepest Beliefs Lab](https://www.deepestbeliefslab.com/) University of North Carolina at Chapel Hill - "We study people’s deepest beliefs and how they shape society"
 - [Institute of Network Cultures in Amsterdam](https://networkcultures.org/about/) - "analyzes and shapes the terrain of network cultures"
   - They have a [Critical Meme Reader III](https://networkcultures.org/wp-content/uploads/2024/05/Critical-Meme-Reader-III_INC2024_INC-Reader-17.pdf) field guide 
 - [Agitproper](https://www.agitproper.org/why.html)

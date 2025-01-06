@@ -19,3 +19,7 @@ Companies / collectives
   - "Agitproper is a fast moving group of people who make stories to help everyone learn to love living in a changing world"
 - [vannevarlabs.com](https://www.vannevarlabs.com/) - "From collecting non-traditional intelligence data, disrupting misinformation, and maintaining multi-domain information dominance, we’re helping to win the fight before it’s fought"
 - [openhumans.org](http://openhumans.org/) - "We want to help people access and understand their personal data, and to help them do and share things that use that data."
+
+Data
+
+- [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html) - this contains a lot of user posts + their connectivity. For example, the twitter posts of members of congress and who they interact with. 

@@ -10,6 +10,7 @@ This is a collection of narratives that are candidates for spreading. The idea i
 
 #### TODO:
 
+- FEEDBACK is critical (criticizing your own team is how you win)
 - "the myth of the unbiased / netural journalist" -> there is no such thing. It's a narrative that benefits bad actors.
 - How do you spread "win win" thinking as a meme? Or the triple "win win win" (good for you, me, and the world).
   - important because a lot of low hanging fruit is due to people taking it for granted that war is inevitable, that consumers & companies are not on the same side

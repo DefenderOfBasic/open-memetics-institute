@@ -28,6 +28,7 @@ Writing software for a new medium of internet discourse. This is useful for maki
 - https://raydoraisamy.com/
 
 Writing a newsletter: "IN SEARCH OF A CULTURE FIT TO SEED STELLAR EMPIRES". Studying all religions & cultures to piece together what is useful and battle tested. Related to Sun's work on human alignment.
+
 ### Meta Synthesis
 
 - https://x.com/metasynthesiser

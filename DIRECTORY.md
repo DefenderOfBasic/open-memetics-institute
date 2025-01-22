@@ -32,5 +32,6 @@ Writing a newsletter: "IN SEARCH OF A CULTURE FIT TO SEED STELLAR EMPIRES". Stud
 ### Meta Synthesis
 
 - https://x.com/metasynthesiser
+- https://metasynthesis.vercel.app
 
-Figuring out blindspots that are caused by excessive tunnel vision and hypothesising what is happening in those unobserved areas.
+Formulating methods to identify research blindspots, caused by tunnel vision and specialisation. A map to assist navigating the human condition.

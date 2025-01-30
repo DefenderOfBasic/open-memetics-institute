@@ -25,4 +25,5 @@ Data
 
 - [What Politics Say](https://www.whatpoliticssay.com/) - web app where you can search for a specific keyword in videos of polticians + link to the source
 - [Play Phrase](https://www.playphrase.me/#/search?language=en) - same as above but for movies & TV
-- [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html) - this contains a lot of user posts + their connectivity. For example, the twitter posts of members of congress and who they interact with. 
+- [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html) - this contains a lot of user posts + their connectivity. For example, the twitter posts of members of congress and who they interact with.
+- Subreddit user overlaps - https://subredditstats.com/subreddit-user-overlaps/conservatives

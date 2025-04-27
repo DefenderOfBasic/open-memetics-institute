@@ -27,3 +27,4 @@ Data
 - [Play Phrase](https://www.playphrase.me/#/search?language=en) - same as above but for movies & TV
 - [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/index.html) - this contains a lot of user posts + their connectivity. For example, the twitter posts of members of congress and who they interact with.
 - Subreddit user overlaps - https://subredditstats.com/subreddit-user-overlaps/conservatives
+- https://www.gdeltproject.org/ - A global database of society, "GDELT Project monitors the world's broadcast, print, and web news from nearly every corner of every country in over 100 languages and identifies the people, locations, organizations, themes, sources, emotions, counts, quotes, images and events driving our global society every second of every day, creating a free open platform for computing on the entire world"

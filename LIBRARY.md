@@ -11,7 +11,7 @@ Useful tools & resources. Currently just an uncategorized list. Will add categor
 
 Companies / collectives 
 
-- [Network Contagion](https://networkcontagion.us/reports/) - "These are an independent, data-driven, evidence-based series of reports that the NCRI and select partners release regarding the spread of hostile ideological content"
+- [Network Contagion Research Institute](https://networkcontagion.us/reports/) - "These are an independent, data-driven, evidence-based series of reports that the NCRI and select partners release regarding the spread of hostile ideological content"
 - [Society Library](https://www.societylibrary.org/) - "all of society's points of view, all in one place" - they create debate maps, aggregating prespectives 
 - [Deepest Beliefs Lab](https://www.deepestbeliefslab.com/) University of North Carolina at Chapel Hill - "We study people’s deepest beliefs and how they shape society"
 - [Institute of Network Cultures in Amsterdam](https://networkcultures.org/about/) - "analyzes and shapes the terrain of network cultures"

@@ -34,4 +34,6 @@ We're actively looking for contributions from:
 - **Academics** - across sociology, psychology, digital anthropology, linguistics. To bridge the new paradigm to the old ones 
 - **Funders** - to give out grants to promising research projects, or invest in companies that are shaping the memetic landscape in a more aligned direction 
 
+As well as people who want to contribute to the open governance project of OMI itself (establishing the org, running it, etc)
+
 _TODO: Add open collective donation link?_

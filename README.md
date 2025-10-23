@@ -1,17 +1,37 @@
 # Open Memetics Institute
 
-> I need something in between the Russian troll farms @bennjordan described, and like, a public research lab. An "open culture institute" that A/B tests people and publishes the result, for the general public
-> 
-> [tweet thread](https://x.com/DefenderOfBasic/status/1859754830962823415)
+**Current status (Oct 2025)**: A loose cluster of people all working on similar things (monitoring the memetic landscape, raising the epistemic waterline, and actively attempting to shape culture). 
 
-Memetics, or "culture science" is the study of (1) how narratives determine human behavior (2) how narratives spread & evolve. The evolution & propagation of memes (the genes of culture) happens naturally, and can also be directed governments & corporations. Memetic engineering is the art of intentionally changing the behavior of groups of humans by spreading specific narratives. We aim to study this science openly for the public benefit, for our own protection & survival. 
+The upcoming milestone is to form an open coalition similar to [Open Street Map](https://www.openstreetmap.org/about) but for memetics. 
 
-We aim to form a collective of "white hat" hackers, and a community around finding & disclosing vulnerabilities, exactly the same way the cyber security industry does it, with conferences like [DEFCON]([https://defcon.org/](https://www.youtube.com/user/DEFCONConference)).
+----
+
+## Glossary
+
+[TODO](Glossary.md)
+
+## Contributors
+
+A list of who is actively contributing to the field of open memetics (includes those who do not acknowledge OMI, but that OMI sees as significant players in the game)
+
+[TODO](Contributors.md)
 
 ## Library
 
-See [LIBRARY.md](./LIBRARY.md)
+Resources, tools, and books. 
 
-## Who are we
+[TODO](Library.md)
 
-The Open Memetics Institute has many cofounders. It's an idea that was independently conceived of many times. See [DIRECTORY.md](./DIRECTORY.md) for a list of members and what they're working on.
+----
+
+## CONTRIBUTING
+
+We're actively looking for contributions from:
+
+- **Influencers** (aka applied memetics) - to be part of a network of active monitoring & field testing of idea propagation
+- **Researchers** (aka theoratical memetics) - to develop the theory & design experiments that can be run in the real world
+- **Software engineers** - to build tooling & infrastructure that can help with open data collection & analysis
+- **Academics** - across sociology, psychology, digital anthropology, linguistics. To bridge the new paradigm to the old ones 
+- **Funders** - to give out grants to promising research projects, or invest in companies that are shaping the memetic landscape in a more aligned direction 
+
+_TODO: Add open collective donation link?_

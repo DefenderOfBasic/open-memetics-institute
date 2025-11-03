@@ -6,9 +6,12 @@ The upcoming milestone is to form an open coalition similar to [Open Street Map]
 
 ----
 
-## Glossary
+## Concepts
 
-[TODO](Glossary.md)
+A collection of concepts necessary to follow & contribute to discussions within open memetics. 
+
+[Concepts.md](Concepts.md)
+
 
 ## Contributors
 

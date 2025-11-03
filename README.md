@@ -32,7 +32,7 @@ Resources, tools, and books.
 We're actively looking for contributions from:
 
 - **Influencers** (aka applied memetics) - to be part of a network of active monitoring & field testing of idea propagation
-- **Researchers** (aka theoratical memetics) - to develop the theory & design experiments that can be run in the real world
+- **Researchers** (aka theoretical memetics) - to develop the theory & design experiments that can be run in the real world
 - **Software engineers** - to build tooling & infrastructure that can help with open data collection & analysis
 - **Academics** - across sociology, psychology, digital anthropology, linguistics. To bridge the new paradigm to the old ones 
 - **Funders** - to give out grants to promising research projects, or invest in companies that are shaping the memetic landscape in a more aligned direction 

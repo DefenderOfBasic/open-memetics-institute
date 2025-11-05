@@ -99,4 +99,9 @@ This is the universal understanding space. It contains “information gathered�
 Each agent inside of this superset has their own coordinates within “information embedding space”. They have their own understanding space that interacts with information in its own unique way.
 
 
+<<<<<<< Updated upstream
 This influences the way that incoming information, incoming entropy, interacts with their agent and the predicted response of the agent
+=======
+
+This influences the way that incoming information, incoming entropy, interacts with their agent and the predicted response of the agent
+>>>>>>> Stashed changes

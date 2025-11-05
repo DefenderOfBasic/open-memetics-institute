@@ -11,7 +11,9 @@ This is a collection of concepts that are necessary for following & contributing
 
 _Example: the [Streisand Deflect](https://www.urbandictionary.com/define.php?term=Streisand+Deflect) is an example of epistemic noise because it injects true information into the system to hide a specific truth._
 
-_Example 2: an engineer writing a design doc pointing out all the flaws in a proposed system, only because it threatens their team's headcount. Everything in the doc is true, but it fails to convince the discerning reader. It's designed to convince those with less discernment, like decision makers up the management chain_
+_Example 2: an engineer writing a design doc pointing out all the flaws in a proposed system, only because it threatens their team's headcount. Everything in the doc is true, but it fails to convince the discerning reader. It's designed to convince those with less discernment, like decision makers up the management chain. This is sometimes referred to as [Gish gallop](https://en.wikipedia.org/wiki/Gish_gallop)_
+
+_See also: [Gish gallop](https://en.wikipedia.org/wiki/Gish_gallop) is a rhetorical technique in which a person in a debate attempts to overwhelm an opponent by presenting an excessive number of arguments._
 </details>
 
 ----

@@ -18,6 +18,11 @@ _See also: [Gish gallop](https://en.wikipedia.org/wiki/Gish_gallop) is a rhetori
 
 ----
 
+**Meme** - A unit of information. May be used more specifically to denote "an idea, behavior, or style that [spreads by means of imitation](https://en.wikipedia.org/wiki/Mimesis "Mimesis") from person to person within a culture and often carries symbolic meaning representing a particular phenomenon or theme." SRC: Wikipedia/Meme
+	- In his 1976 book _The Selfish Gene_, British scientist Richard Dawkins defended his newly coined word _meme_, which he defined as "a unit of cultural transmission." Having first considered, then rejected, _mimeme_, he wrote: "_Mimeme_ comes from a suitable Greek root, but I want a monosyllable that sounds a bit like _gene_." (The suitable Greek root was _mim_-, meaning "mime" or "mimic." SRC: [MWDictionary/Meme](https://www.merriam-webster.com/dictionary/meme)
+ 
+----
+
 **memetic attraction** - a unit of information is said to have a "pull" force towards the observer if they gain value from it upon contact. Understanding the forces acting upon information allows us to map the landscape. 
 
 For example: a working solution to a known open problem has a natural "pull". You'd expect that if that piece of information exists, it will find its way to the relevant authority. The absence of it tells us that 

@@ -4,6 +4,14 @@ This is a collection of concepts that are necessary for following & contributing
 
 ----
 
+**ABU Reaction** - Categorizing a post, article, or other published material as falling into one of three categories: new and apparently true, true but already known, and doubtful.
+	- _A - “true & useful, AND new to me”_
+	- _B - “true & useful, but NOT novel”_
+	- _U - “unclear, undefined, unknowable, or just flat out wrong”_
+	- See [Rate Me: A, B, or U](https://defenderofthebasic.substack.com/p/rate-me-a-b-or-u)
+
+----
+
 **epistemic noise** - any information that makes it difficult to surface the truths the observer seeks. Usually because it's false, irrelevant, or worse: is true but guides you towards false conclusions. 
 
 <details>

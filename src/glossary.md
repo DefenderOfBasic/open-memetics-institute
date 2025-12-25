@@ -67,3 +67,10 @@ _Example 2: an engineer writing a design doc pointing out all the flaws in a pro
 
 - The way we short circuit this is to create a community where we assume ALL bad things happen due to incompetence. 
 - Thus, an actor who is incompetent AND doesn't respond to feedback is considered "bad faith", and must be removed from their position of power, because they will hurt themselves/others
+
+**Gorgias Problem** - The structural asymmetry that it is cheaper & faster to generate beleifs and/or conviction in an agent than to generate understanding (i.e., an epistemology upgrade)
+
+- Beliefs spread can be installed or strengthened without the recipient gaining the ability to reconstruct why it’s true, which makes the influence difficult to audit even when the belief happens to be correct. Repeated exposure to this also degrades the recipient’s epistemic habits. Normies are especially suspectable. 
+- Memes can be evaluated by their relationship to the Gorgias Problem: do they primarily produce conviction without comprehension, or do they build understanding? and do they increase the recipient’s ability to notice and resist belief-installation attempts that bypass understanding?
+
+

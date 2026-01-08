@@ -14,7 +14,6 @@ _These are people who are up to date with the day to day of the OMI egregore_
 
 <!-- 
 
-- Lincoln Sayger ([Substack](https://substack.com/@lincolnsayger)/[GitHub](https://github.com/over2sd))
 - Aeron Laffere ([Twitter](https://x.com/aeronlaffere))
 - Ideomancer ([Twitter](https://x.com/DaoistEgo)) -->
 

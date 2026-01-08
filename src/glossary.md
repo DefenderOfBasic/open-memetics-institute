@@ -67,3 +67,13 @@ _Example 2: an engineer writing a design doc pointing out all the flaws in a pro
 
 - The way we short circuit this is to create a community where we assume ALL bad things happen due to incompetence. 
 - Thus, an actor who is incompetent AND doesn't respond to feedback is considered "bad faith", and must be removed from their position of power, because they will hurt themselves/others
+
+---
+
+**quokka** - a node that cooperates 100% of the time. 
+
+They are useful in surfacing bad actors or hostile environments. A quokka generates value but never tries to capture it. If you insert a quokka in an environment and watch what happens to it, it essentially sacrifices itself to surface an unfakeable signal (who is willing to steal from it & lie about it). 
+
+A real example of a quokka is the "autistic engineer" archetype. They function as "NPCs" in the game of "company politics". 
+
+(side note: this is why "normie" != "NPC". See definition of normie above)

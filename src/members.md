@@ -5,13 +5,18 @@
 _These are people who are up to date with the day to day of the OMI egregore_
 
 - Defender's memetics lab
-  - Includes [Katt](https://x.com/kaefairy_), [Cal](https://x.com/alphamemelabz), [Joshua](https://x.com/workflowsauce), and broadly the twitter & [substack](https://defenderofthebasic.substack.com/about) audiences
+  - Includes [Katt](https://x.com/kaefairy_), [Faraday](https://lememelab.substack.com/), [Joshua](https://x.com/workflowsauce), and broadly the twitter & [substack](https://defenderofthebasic.substack.com/about) audiences
+- Emergent ([twitter](https://x.com/emergentvibe))
 - Ben G ([Substack](https://shadowrebbe.substack.com/p/open-memetics-research-of-mine)) 
-- Lincoln Sayger ([Substack](https://substack.com/@lincolnsayger)/[GitHub](https://github.com/over2sd))
 - Nosilverv ([Twitter](https://x.com/nosilverv))
-- Aeron Laffere ([Twitter](https://x.com/aeronlaffere))
 - Aleks Jakulin ([Twitter](https://x.com/aleksj))
-- Ideomancer ([Twitter](https://x.com/DaoistEgo))
+- Lincoln Sayger ([Substack](https://substack.com/@lincolnsayger)/[GitHub](https://github.com/over2sd))
+
+<!-- 
+
+- Lincoln Sayger ([Substack](https://substack.com/@lincolnsayger)/[GitHub](https://github.com/over2sd))
+- Aeron Laffere ([Twitter](https://x.com/aeronlaffere))
+- Ideomancer ([Twitter](https://x.com/DaoistEgo)) -->
 
 
 **🕸️ Periphery** 
